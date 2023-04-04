@@ -1,4 +1,4 @@
-Class flowers:
+Class = Flowers
 def __init__(self, name, color, season, height):
     self.name = name
     self.color = color
